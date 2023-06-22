@@ -1,7 +1,7 @@
 import * as React from 'react'
 
 function Square() {
-  <button className="square">1</button>
+  return <button className="square">1</button>
 }
 
 export default function Board() {
